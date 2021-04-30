@@ -13,3 +13,17 @@ Iris performance test program
 >https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
 
 >conda install -c conda-forge scikit-learn 
+
+## Usage
+```python
+python MotionBlur_Main.py
+```
+```python
+python Sharpness_Main.py
+```
+```python
+python IrisStat_main.py
+```
+```python
+python evaluateIrisSegResults_Libor_Masek.py
+```
