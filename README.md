@@ -40,4 +40,4 @@ python evaluateIrisSegResults_Libor_Masek.py
 ![](https://github.com/firework8/IrisStat_V3.0_Python/raw/main/Recognition/out/OSIris_genuine_impostor_distribution.png) 
 
 ### Segmentation
-**evalSegRes_LiborMasek.txt**
+evalSegRes_LiborMasek.txt
